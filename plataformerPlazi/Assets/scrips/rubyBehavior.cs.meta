@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30ea58e14f55341f2a5c3d4a889d0794
+timeCreated: 1560630517
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ruby: {fileID: 1248364032923576, guid: 1a18fa88355a04264b7e3d535695601a, type: 2}
+  - rubyColectableString: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
