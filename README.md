@@ -1,4 +1,4 @@
 # unityPlataformer
 
-En este repo está mi primer juego medianamente completo hecho con Unity, es un plataforma donde pude
-desarrollar y reforsar mis conocimientos de C#
+Un pequeño plataforma hecho con Unity , Integrando todos los elementos básicos de un juego.
+Si lo descargan y lo abren con Unity les debería funcionar.
